@@ -1,0 +1,16 @@
+/* ProductCard.css */
+
+/* Style for the Card component */
+.product-card {
+    width: 10%; /* Set width */
+    height: 40%; /* Set height */
+    margin: 10px; /* Adjust margin as needed */
+  }
+  
+  /* Style for the Card image */
+  .product-card-img {
+    width: 100%; /* Ensures the image takes the full width */
+    height: 100%; /* Ensures the image takes the full height */
+    object-fit: cover; /* Maintain aspect ratio and cover the entire space */
+  }
+  
